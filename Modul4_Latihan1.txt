@@ -1,0 +1,47 @@
+=== Calculator ===
+1. Akar Kuadrat
+2. Pangkat
+3. Logaritma
+4. Faktorial
+5. Keluar
+Pilih operasi (1/2/3/4/5): 1
+Masukkan angka: 36
+Hasil akar kuadrat dari 36.0 adalah 6.0
+=== Calculator ===
+1. Akar Kuadrat
+2. Pangkat
+3. Logaritma
+4. Faktorial
+5. Keluar
+Pilih operasi (1/2/3/4/5): 2
+Masukkan angka: 7
+Masukkan pangkat: 3
+7.0 pangkat 3.0 adalah 343.0
+=== Calculator ===
+1. Akar Kuadrat
+2. Pangkat
+3. Logaritma
+4. Faktorial
+5. Keluar
+Pilih operasi (1/2/3/4/5): 3
+Masukkan angka: 100
+Logaritma natural dari 100.0 adalah 4.605170185988092
+=== Calculator ===
+1. Akar Kuadrat
+2. Pangkat
+3. Logaritma
+4. Faktorial
+5. Keluar
+Pilih operasi (1/2/3/4/5): 4
+Masukkan angka: 0
+Faktorial dari 0 adalah 1
+=== Calculator ===
+1. Akar Kuadrat
+2. Pangkat
+3. Logaritma
+4. Faktorial
+5. Keluar
+Pilih operasi (1/2/3/4/5): 5
+Terima kasih telah menggunakan kalkulator ini.
+
+Process finished with exit code 0

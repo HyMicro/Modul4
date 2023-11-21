@@ -1,0 +1,48 @@
+=== MENU TEKS ANALYZER ===
+1. Masukkan Teks
+2. Hitung Jumlah Karakter
+3. Hitung Jumlah Kata
+4. Cari Kata dalam Teks
+5. Keluar
+Pilihan Anda: 1
+Masukkan teks: Laboratorium Informatika Universitas Muhammadiyah Malang merupakan salah satu bagian yang berdiri sebagai elemen krusial dalam Program Studi Informatika Universitas Muhammadiyah Malang dimana menjadi pijakan utama bagi berbagai kegiatan esensial, terutama praktikum. Aktivitas praktikum dilakukan antara asisten laboratorium dengan mahasiswa sebagai praktikan. Melalui kerjasama sinergis antara asisten laboratorium dan mahasiswa sebagai praktikan, setiap angkatan memiliki sejumlah asisten laboratorium yang akan melakukan asistensi terhadap praktikan angkatan setelahnya. Dengan semangat dan dedikasi yang mendalam, Laboratorium Informatika Universitas Muhammadiyah Malang terus menjadi wadah bagi pertumbuhan intelektual dan kolaborasi bermanfaat bagi masa depan bidang informatika yang cemerlang.
+Teks telah dimasukkan!
+
+=== MENU TEKS ANALYZER ===
+1. Masukkan Teks
+2. Hitung Jumlah Karakter
+3. Hitung Jumlah Kata
+4. Cari Kata dalam Teks
+5. Keluar
+Pilihan Anda: 2
+Jumlah karakter dalam teks: 800
+
+=== MENU TEKS ANALYZER ===
+1. Masukkan Teks
+2. Hitung Jumlah Karakter
+3. Hitung Jumlah Kata
+4. Cari Kata dalam Teks
+5. Keluar
+Pilihan Anda: 3
+Jumlah kata dalam teks: 92
+
+=== MENU TEKS ANALYZER ===
+1. Masukkan Teks
+2. Hitung Jumlah Karakter
+3. Hitung Jumlah Kata
+4. Cari Kata dalam Teks
+5. Keluar
+Pilihan Anda: 4
+Masukkan kata yang ingin dicari: Laboratorium
+Kata 'Laboratorium' ditemukan sebanyak 5 kali dalam teks.
+
+=== MENU TEKS ANALYZER ===
+1. Masukkan Teks
+2. Hitung Jumlah Karakter
+3. Hitung Jumlah Kata
+4. Cari Kata dalam Teks
+5. Keluar
+Pilihan Anda: 5
+Terima kasih telah menggunakan program Teks Analisis!
+
+Process finished with exit code 0
